@@ -1,1 +1,1 @@
-# Practise-DevOps
+# Practice-DevOps
